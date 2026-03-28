@@ -82,6 +82,7 @@
     "artist": "GUXI",
     "audioFilename": "Wo Xing Shi - GUXI.mp3",
     "coverFilename": "Wo Xing Shi - GUXI_cover.jpg"
+<<<<<<< HEAD
   },
   {
     "id": "13",
@@ -103,5 +104,7 @@
     "artist": "2011 Rio Version - Sérgio Mendes, Gracinha Leporace",
     "audioFilename": "Mas Que Nada - 2011 Rio Version - Sérgio Mendes, Gracinha Leporace.flac",
     "coverFilename": "Mas Que Nada - 2011 Rio Version - Sérgio Mendes, Gracinha Leporace_cover.jpg"
+=======
+>>>>>>> f74d2e95a3d049eba0eea8f4b43a5ad52460a2ee
   }
 ]
