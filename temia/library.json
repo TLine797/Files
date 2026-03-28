@@ -19,5 +19,12 @@
     "artist": "DJ Asul - WICKED PHONK",
     "audioFilename": "DJ Asul - VAI VAI TRAIR - WICKED PHONK.mp3",
     "coverFilename": "DJ Asul - VAI VAI TRAIR - WICKED PHONK.jpg"
+  },
+  {
+    "id": "4",
+    "title": "AURA (Slowed)",
+    "artist": "Ogryzek",
+    "audioFilename": "AURA (Slowed).mp3",
+    "coverFilename": "AURA (Slowed)_cover.jpg"
   }
 ]
