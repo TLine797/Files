@@ -26,5 +26,54 @@
     "artist": "Ogryzek",
     "audioFilename": "AURA (Slowed).mp3",
     "coverFilename": "AURA (Slowed)_cover.jpg"
+  },
+  {
+    "id": "5",
+    "title": "Maniacs of Noise",
+    "artist": "Abeille Giean",
+    "audioFilename": "Maniacs_of_Noise.mp3",
+    "coverFilename": "Maniacs_of_Noise_cover.jpg"
+  },
+  {
+    "id": "6",
+    "title": "Trap Queen",
+    "artist": "Fetty Wap",
+    "audioFilename": "Fetty Wap - Trap Queen.mp3",
+    "coverFilename": "Fetty Wap - Trap Queen_cover.jpg"
+  },
+  {
+    "id": "7",
+    "title": "FIRME NA FÉ",
+    "artist": "KHAOS, LeoTHM, Darzspeed, MXZI",
+    "audioFilename": "FIRME NA FÉ - KHAOS, LeoTHM, Darzspeed, MXZI.mp3",
+    "coverFilename": "FIRME NA FÉ - KHAOS, LeoTHM, Darzspeed, MXZI_cover.jpg"
+  },
+  {
+    "id": "8",
+    "title": "FUNK DO SURPRISE",
+    "artist": "KXZINVK, MC ROBA CENA, and MC da 12",
+    "audioFilename": "FUNK DO SURPRISE.mp3",
+    "coverFilename": "FUNK DO SURPRISE_cover.jpg"
+  },
+  {
+    "id": "9",
+    "title": "MONTAGEM BAILÃO",
+    "artist": "ATLXS, MXZI, and repsaj",
+    "audioFilename": "MONTAGEM BAILÃO.mp3",
+    "coverFilename": "MONTAGEM BAILÃO_cover.jpg"
+  },
+  {
+    "id": "10",
+    "title": "Montagem Supersonic",
+    "artist": "KHAOS, Jmilton",
+    "audioFilename": "Montagem Supersonic - KHAOS, Jmilton.mp3",
+    "coverFilename": "Montagem Supersonic - KHAOS, Jmilton_cover.jpg"
+  },
+  {
+    "id": "11",
+    "title": "MONTAGEM XONADA",
+    "artist": "DJ Javi26, Dj Samir, and MXZI",
+    "audioFilename": "MONTAGEM XONADA.mp3",
+    "coverFilename": "MONTAGEM XONADA_cover.jpg"
   }
 ]
